@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "measurement-units"
+  project_description: "measurement-units"
+  organization: "measurement-units"
+  license: "MIT"
+  minimal_python_version: 3.7
+  github_name: "measurement-units"
+  email: "jacastro18@uc.cl"
+  version: "0.1.0"
+  line_length: "100"
+  create_example_template: "cli"
