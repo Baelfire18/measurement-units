@@ -390,12 +390,12 @@ This project is licensed under the terms of the `MIT` license. See [LICENSE](htt
 
 ```bibtex
 @misc{measurement-units,
-  author = {measurement-units},
+  author = {Jose Castro, Emmanuel Norambuena},
   title = {measurement-units},
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/measurement-units/measurement-units}}
+  howpublished = {\url{https://github.com/Baelfire18/measurement-units}}
 }
 ```
 
